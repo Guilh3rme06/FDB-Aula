@@ -1,42 +1,42 @@
 # FDB-Aula
 
-Este repositório contém os exercícios realizados na disciplina de Fundamentos de Banco de Dados.
+This repository contains exercises done in Database Fundamentals.
 
-## Estrutura do Repositório
+## Repository Structure
 
-- `src/`: Código fonte dos exercícios.
-- `docs/`: Documentação e materiais de apoio.
-- `tests/`: Testes automatizados para os exercícios.
+- `src/`: Source code of the exercises.
+- `docs/`: Documentation and supporting materials.
+- `tests/`: Automated tests for the exercises.
 
-## Como Usar
+## How to Use
 
-1. Clone o repositório:
+1. Clone the repository:
     ```bash
     git clone https://github.com/Guilh3rme06/FDB-Aula.git
     cd FDB-Aula
     ```
 
-2. Crie um ambiente virtual e ative-o:
+2. Create a virtual environment and activate it:
     ```bash
     python -m venv venv
-    source venv/bin/activate  # No Windows use `venv\Scripts\activate`
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
-3. Instale as dependências:
+3. Install the dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-4. Execute os scripts:
+4. Run the scripts:
     ```bash
-    python src/nome_do_script.py
+    python src/name_script.py
     ```
 
-## Informações do Curso
+## Course Information
 
-- **Instituição**: IPLUSO Ensino Politécnico da Lusofonia
-- **Curso**: Fundamentos de Banco de Dados
+- **Institution**: IPLUSO Ensino Politécnico da Lusofonia
+- **Course**: Database Fundamentals
 
-## Contribuição
+## Contribution
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+Contributions are welcome! Feel free to open issues and pull requests.
